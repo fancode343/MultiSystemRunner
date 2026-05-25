@@ -17,7 +17,7 @@ This is actually AllInOne System Version2
 - **Add this on you main file**
     ```
     public static String getSystemName() {
-        return "You System Name";
+        return "Your System Name";
     }
 
     public static String getSystemAuthor() {
